@@ -8,3 +8,7 @@
 5. user input
 6. numbers function --> funzioni per i numeri importando 'math'
 7. string slicing
+8. import time
+9. logical operators and, or, not
+10. nested loop
+11. while loop
